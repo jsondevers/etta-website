@@ -1,6 +1,6 @@
 # TODO
 
-* [ ] Make "Link" for BarkBox blue and underlined
+* [x] Make "Link" for BarkBox blue and underlined
 * [ ] Task
 * [ ] Task
 * [ ] Task
